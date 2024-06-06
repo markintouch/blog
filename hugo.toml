@@ -1,0 +1,13 @@
+baseURL = "https://blog.joy.cloudns.ch/"
+languageCode = "en-us"
+title = "思想炼金术"
+theme = "PaperMod"
+
+[params]
+  # 添加您的 PaperMod 配置
+  author = "Mark"
+  description = "Life is a journey"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+
